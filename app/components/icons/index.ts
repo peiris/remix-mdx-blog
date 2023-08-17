@@ -1,0 +1,6 @@
+export * from './ReactLogo'
+export * from './HtmlLogo'
+export * from './NextLogo'
+export * from './TailwindLogo'
+export * from './FigmaLogo'
+export * from './RemixLogo'
